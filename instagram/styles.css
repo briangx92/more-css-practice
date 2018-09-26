@@ -5,7 +5,8 @@ div {
 nav {
   display:inline-block;
   float: left;
-  margin: 0;
+  margin-right: 10px;
+  border-right: solid;
 }
 nav ul {
   margin-left: 0;
@@ -15,7 +16,4 @@ nav ul {
 nav ul li {
   list-style-type: none;
   padding: 1em;
-}
-main {
-
 }
