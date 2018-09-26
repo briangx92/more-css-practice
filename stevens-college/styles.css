@@ -1,1 +1,37 @@
-/* Add your CSS here */
+h1 {
+  display: block;
+  font-size: 6em;
+  text-transform: uppercase;
+}
+
+img {
+  z-index: -1;
+  display: block;
+  margin: 0;
+  width: 100%;
+  padding: 10px;
+}
+
+.block {
+  display: block;
+  border: 2px solid lightgray;
+}
+
+li {
+  display: inline-block;
+  padding: 25px;
+  margin-right: 20px;
+  border: thick darkred solid;
+  text-transform: uppercase;
+  background-color: darkred;
+  color: white;
+  text-align: center;
+
+}
+nav {
+  text-align: center;
+}
+
+p {
+  font-size: 32px;
+}
