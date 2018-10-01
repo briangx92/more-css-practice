@@ -1,1 +1,21 @@
-/* Add your CSS here */
+form label, form input[type="submit"] {
+  display: block;
+}
+form label, form input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+body {
+  margin: 0 auto;
+  width: 75%;
+}
+form input {
+  padding: 0.5rem;
+  border-radius: 2px;
+}
+.halfwidth {
+  width: 50%;
+  float: left;
+}
+h1 {

@@ -2,20 +2,14 @@ h1 {
   display: block;
   font-size: 6em;
   text-transform: uppercase;
-  text-align: center;
 }
 
 img {
-  z-index: -1;
   display: block;
   margin: 0;
   width: 100%;
   padding: 10px;
-}
 
-.block {
-  display: block;
-  border: 2px solid lightgray;
 }
 
 li {
@@ -35,4 +29,10 @@ nav {
 
 p {
   font-size: 32px;
+}
+
+body {
+  width: 75%;
+  max-width: 800px;
+  margin: auto;
 }

@@ -1,12 +1,9 @@
-div {
-  display: inline-block;
-  margin-left: 150px;
-}
 nav {
   display:inline-block;
   float: left;
   margin-right: 10px;
   border-right: solid;
+  width: 20%;
 }
 nav ul {
   margin-left: 0;
